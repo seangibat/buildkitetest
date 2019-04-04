@@ -1,0 +1,3 @@
+steps:
+  - command: "/test.sh"
+    label: ":whatnow: Echothing"
